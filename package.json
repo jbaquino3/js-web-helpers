@@ -1,5 +1,5 @@
 {
-  "name": "js-web-helpers",
+  "name": "javascript-web-helpers",
   "version": "1.0.0",
   "description": "Helper functions to help you manipulate strings, dates, times, etc. when developing your JavaScript applications.",
   "main": "index.js",
