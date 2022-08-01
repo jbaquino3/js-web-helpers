@@ -1,0 +1,26 @@
+{
+  "name": "js-web-helpers",
+  "version": "1.0.0",
+  "description": "Helper functions to help you manipulate strings, dates, times, etc. when developing your JavaScript applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbaquino3/js-web-helpers.git"
+  },
+  "keywords": [
+    "helpers",
+    "javascript",
+    "string",
+    "date",
+    "time"
+  ],
+  "author": "upotatou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbaquino3/js-web-helpers/issues"
+  },
+  "homepage": "https://github.com/jbaquino3/js-web-helpers#readme"
+}
